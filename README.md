@@ -6,10 +6,8 @@
 
 📍 Based in Germany | 📍 Standort: Deutschland  
 💼 Open to internship opportunities | 💼 Auf der Suche nach einem Praktikum  
+📧 **Email**: nawresbouali10@gmail.com  
 <p>
-  <a href="mailto:nawresbouali10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/nawres-bouali-a07800219">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
