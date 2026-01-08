@@ -43,6 +43,37 @@ HCIA – AI & HCIA – Cloud Service Training (TEK-UP)
 
 ---
 
+## 🌍 Languages & Interests
+
+🗣️ **Languages**  
+🇫🇷 French | 🇬🇧 English | 🇩🇪 German  
+
+🎯 **Interests**  
+💻 Emerging Technologies | 🌐 Cloud Trends | 🔐 Cybersecurity Research | 🎮 Gaming | 🎼 Music  
+
+---
+
+## 💼 Professional Experience
+
+🏢 **IT Specialist** @ Al Haider International Real Estate  
+📍 Al Rayyan, Qatar | 🕒 Full-time  
+📅 July 2024 – June 2025  
+
+• IT support and system administration  
+• Network troubleshooting and infrastructure support  
+• Automation and scripting for operational efficiency  
+
+---
+
+🏢 **Python Trainer** @ Formakt_Bac  
+📍 Tunisia | 🕒 Full-time (Hybrid)  
+📅 October 2023 – October 2024  
+
+• Delivered Python training sessions  
+• Focus on scripting and automation  
+• Designed practical exercises and learning materials  
+
+
 <!-- ATS keyword block -->
 **Keywords (ATS):** Cybersecurity, Network Engineering, SOC, Cloud Computing, Docker, AWS, Azure, Linux, Python, Wazuh, TheHive, Internship, Germany
 
