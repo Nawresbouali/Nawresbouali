@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F80ED&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+Network+Engineering+Student;Based+in+Germany;Open+to+Internship+Opportunities" />
+</p>
+
 ### Hi 👋, I'm Nawres Bouali
 
 🎓 Network & Cybersecurity Engineering Student  
