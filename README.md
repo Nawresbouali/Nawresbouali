@@ -4,37 +4,51 @@
 
 ### Hi 👋, I'm Nawres Bouali
 
-🎓 Network & Cybersecurity Engineering Student  
 📍 Based in Germany | 📍 Standort: Deutschland  
 💼 Open to internship opportunities | 💼 Auf der Suche nach einem Praktikum  
-
+<p>
+  <a href="mailto:nawresbouali10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nawres-bouali-a07800219">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Nawresbouali">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ### 🛠 Tech Stack
 
 #### 🌐 Network / Netzwerk
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat)
+Cisco, Networking
 
 #### 🔐 Security / Sicherheit
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=flat)
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat)
-![TheHive](https://img.shields.io/badge/TheHive-FF7A00?style=flat)
+Cybersecurity, Wazuh, TheHive, SOC
 
 #### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+Docker, AWS, Azure
 
-#### 🧑‍💻 Programming & OS / Programmierung & Betriebssysteme
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
+#### 🧑‍💻 Programming & OS / Betriebssysteme
+Python, Linux
+
+---
 
 ### 🎓 Certifications & Training / Zertifikate & Schulungen
-![Huawei](https://img.shields.io/badge/Huawei-HCIA--AI%20%26%20HCIA--Cloud-red?style=flat&logo=huawei&logoColor=white)
-**HCIA – AI & HCIA – Cloud Service Training (TEK-UP)**
+HCIA – AI & HCIA – Cloud Service Training (TEK-UP)
 
-📌 This GitHub contains my academic and personal projects  
-📌 Dieses GitHub enthält meine akademischen und persönlichen Projekte  
+### 📂 What You’ll Find Here
+- 🔐 Cybersecurity & SOC-related projects  
+- 🌐 Network and Cloud labs  
+- 🧪 Academic and personal experiments  
+- 📘 Continuous learning and skill development  
 
-🚀 Always learning and improving  
-🚀 Ständige Weiterentwicklung
+---
+
+<!-- ATS keyword block -->
+**Keywords (ATS):** Cybersecurity, Network Engineering, SOC, Cloud Computing, Docker, AWS, Azure, Linux, Python, Wazuh, TheHive, Internship, Germany
+
+---
+
+🚀 **Always learning and improving**  
+🚀 **Ständige Weiterentwicklung**
